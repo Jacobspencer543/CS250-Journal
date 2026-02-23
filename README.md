@@ -1,1 +1,13 @@
 # CS250-Journal
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+  Interpreting user needs begins with understanding the problem from the user’s perspective—what they are trying to accomplish, why it matters, and what constraints shape their experience. User stories help translate these needs into actionable development tasks by framing requirements in simple, goal‑oriented language. They clarify who the feature is for, what it should do, and why it provides value. This structure prevents developers from focusing only on technical details and instead keeps attention on the intended outcome. Acceptance criteria further refine expectations by defining what “done” looks like. Together, user stories and acceptance criteria ensure that the program aligns with real user needs and that development work remains focused, testable, and meaningful.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+  I approach program development as an iterative, collaborative process where clarity and adaptability are just as important as technical skill. Agile practices support this mindset by breaking work into manageable increments, encouraging continuous refinement, and promoting frequent communication among team members. Processes like backlog refinement, daily standups, and sprint reviews help surface questions early, prevent misunderstandings, and keep the team aligned on priorities. I plan to incorporate these Agile practices into future development work because they make it easier to adjust to changing requirements, reduce rework, and maintain a steady flow of progress. The emphasis on transparency and feedback ensures that the final product evolves in a thoughtful, user‑centered way.
+
+What does it mean to be a good team member in software development?
+
+  Being a good team member in software development means contributing to a shared goal through clear communication, accountability, and respect for the roles and perspectives of others. It involves asking questions when requirements are unclear, offering constructive feedback, and being open to feedback in return. Good team members share progress openly, raise blockers early, and collaborate rather than working in isolation. They understand that developers, testers, and product owners each bring essential insights to the project, and they use that diversity of perspectives to improve the quality of the final product. Ultimately, strong teamwork ensures that the software is not only functional but aligned with user needs and built efficiently.
